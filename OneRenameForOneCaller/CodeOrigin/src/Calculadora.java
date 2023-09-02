@@ -1,4 +1,4 @@
-package codeOrigin.src;
+package CodeOrigin.src;
 public class Calculadora {
   public int calcular(String operacao, int num1, int num2) {
     int resultado = 0;
