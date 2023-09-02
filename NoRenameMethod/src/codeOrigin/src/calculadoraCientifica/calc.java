@@ -1,3 +1,5 @@
+package CodeOrigin.src.calculadoraCientifica;
+
 public class calc {
   public static void main(String[] args) {
     soma();

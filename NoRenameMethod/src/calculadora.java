@@ -1,11 +1,11 @@
-package CodeOrigin.src;
+package src;
 
 import java.lang.reflect.Method;
-import  codeOrigin.calculadoraCientifica.calc;
+import calculadoraCientifica.calc;
 
 public class calculadora extends calc{
   public static void main(String[] args) {
-     soma();
+      soma();
   }
 
   public static double soma() {
