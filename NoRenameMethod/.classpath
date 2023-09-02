@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="codeDestiny/|codeOrigin/calculadoraCientifica/|calculadoraCientifica/|codeOrigin/|codeDestiny/calculadoraCientifica/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/calculadoraCientifica"/>
+	<classpathentry excluding="calculadoraCientifica/" kind="src" path="src/codeDestiny"/>
+	<classpathentry kind="src" path="src/codeDestiny/calculadoraCientifica"/>
+	<classpathentry excluding="calculadoraCientifica/" kind="src" path="src/codeOrigin"/>
+	<classpathentry kind="src" path="src/codeOrigin/calculadoraCientifica"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
