@@ -5,4 +5,5 @@
  * 
  */
 module codeDestiny {
+	requires junit;
 }
