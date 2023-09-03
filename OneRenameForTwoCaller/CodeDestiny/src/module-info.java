@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module CodeDestiny {
-	requires junit;
-}
