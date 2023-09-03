@@ -12,7 +12,7 @@ public class MyObj extends Calculator {
 
 
     public static void main (String args[]) {
-        add(1,2);
+        sum(1,2);
     }
 }
 
