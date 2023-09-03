@@ -13,8 +13,8 @@ public class MyObj  extends Calculator{
 
     public static void main (String args[]) {
         Calculator cal = new Calculator();
-        cal.add(4,5);
-        cal.add(6,8);
+        cal.sum(4,5);
+        cal.sum(6,8);
     }
 }
 
