@@ -2,7 +2,7 @@ package org.example.code;
 
 public class Calculator {
 
-        public static int add(int a, int b) {
+        public static int sum(int a, int b) {
             return a + b;
         }
 
@@ -24,9 +24,9 @@ public class Calculator {
 
 
         public static void main (String args[]) {
-            add(2,4);
-            add(3,5);
-            add(4,6);
+            sum(2,4);
+            sum(3,5);
+            sum(4,6);
         }
 
 }
