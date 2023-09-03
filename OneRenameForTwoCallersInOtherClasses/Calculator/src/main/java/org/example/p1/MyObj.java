@@ -12,8 +12,8 @@ public class MyObj  extends Calculator{
 
 
     public static void main (String args[]) {
-        add(4,5);
-        add(6,8);
+        sum(4,5);
+        sum(6,8);
     }
 }
 
