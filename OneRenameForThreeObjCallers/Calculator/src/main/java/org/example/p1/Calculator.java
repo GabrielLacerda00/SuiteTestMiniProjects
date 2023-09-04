@@ -21,8 +21,8 @@ public class Calculator {
 
 	public static void main (String args[]) {
 		Calculator cal = new Calculator();
-		cal.add(5,7);
-		cal.add(6,8);
-		cal.add(8,5);
+		cal.sum(5,7);
+		cal.sum(6,8);
+		cal.sum(8,5);
 	}
 }
