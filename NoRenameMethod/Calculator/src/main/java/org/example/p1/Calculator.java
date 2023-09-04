@@ -21,7 +21,7 @@ public class Calculator {
 
 	public static void main (String args[]) {
 		Calculator calc = new Calculator();
-		calc.add(5,7);
+		calc.add(7,7);
 		calc.add(4,7);
 	}
 }
