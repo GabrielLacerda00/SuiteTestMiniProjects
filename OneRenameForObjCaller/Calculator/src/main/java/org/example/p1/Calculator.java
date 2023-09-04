@@ -1,7 +1,9 @@
 package org.example.p1;
+
+
 public class Calculator {
 	
-	public  int sum(int a, int b) {
+	public  int add(int a, int b) {
 		return a + b;
 	}
 	
@@ -17,9 +19,8 @@ public class Calculator {
 		return a / b;
 	}
 
-
 	public static void main (String args[]) {
-		Calculator calc = new Calculator();
-		calc.sum(4,5);
+		Calculator cal = new Calculator();
+		cal.add(5,7);
 	}
 }
