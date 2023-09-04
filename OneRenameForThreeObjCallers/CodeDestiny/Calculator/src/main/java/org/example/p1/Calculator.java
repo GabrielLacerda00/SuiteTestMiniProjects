@@ -18,11 +18,11 @@ public class Calculator {
 	public float division(int a, int b) {
 		return a / b;
 	}
-	
+
 	public static void main (String args[]) {
-		Calculator calc = new Calculator();
-		calc.sum(4,5);
-		calc.sum(4,3);
-		calc.sum(2,7);
+		Calculator cal = new Calculator();
+		cal.sum(5,7);
+		cal.sum(6,8);
+		cal.sum(8,5);
 	}
 }

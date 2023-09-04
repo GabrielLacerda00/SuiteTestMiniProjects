@@ -20,9 +20,9 @@ public class Calculator {
 	}
 
 	public static void main (String args[]) {
-		Calculator calc = new Calculator();
-		calc.add(4,5);
-		calc.add(4,3);
-		calc.add(2,7);
+		Calculator cal = new Calculator();
+		cal.add(5,7);
+		cal.add(6,8);
+		cal.add(8,5);
 	}
 }

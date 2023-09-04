@@ -3,7 +3,7 @@ package org.example.p1;
 
 public class Calculator {
 	
-	public  int sum(int a, int b) {
+	public  int add(int a, int b) {
 		return a + b;
 	}
 	
@@ -20,9 +20,9 @@ public class Calculator {
 	}
 
 	public static void main (String args[]) {
-		Calculator calc = new Calculator();
-		calc.sum(4,5);
-		calc.sum(4,3);
-		calc.sum(2,7);
+		Calculator cal = new Calculator();
+		cal.add(5,7);
+		cal.add(6,8);
+		cal.add(8,5);
 	}
 }
