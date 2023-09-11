@@ -1,5 +1,7 @@
 package org.example.p1;
 
+import org.example.p1.Calculator;
+
 public class MyObj  extends Calculator{
 
     public static int sum(int a, int b) {
