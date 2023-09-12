@@ -18,12 +18,9 @@ public class Calculator {
 	public float division(int a, int b) {
 		return a / b;
 	}
-	
-	public MyObj testComplex(MyObj myobj) {
-		return myobj;
-	}
 
 	public static void main (String args[]) {
-
+		add(4,5);
+		add(6,8);
 	}
 }
